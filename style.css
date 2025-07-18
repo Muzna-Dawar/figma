@@ -66,3 +66,53 @@ li {
     padding: 15px;
     gap: 6px;
 }
+.thrd {
+    display: flex;
+    flex-direction: column;
+    /* margin: 0 auto; */
+    text-align: center;
+    /* align-items: center; */
+    line-height: 40px;
+    width: 1200px;
+}
+.logos {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1000px;
+    padding-top: 30px;
+}
+.fourth {
+    display: flex;
+    flex-direction: column;
+    /* margin: 0 auto; */
+    text-align: center;
+    /* align-items: center; */
+    line-height: 30px;
+    width: 1200px;
+}
+.fourth p {
+    padding-top: 10px;
+}
+.image4 {
+    width: 45.23px !important;
+    height: 38.98px !important; 
+}
+.cd {
+    padding: 16.5px 22.5px;
+    width: 208px;
+    height: 182px;
+    /* height: 22.5px; */
+}
+/* .fourth-cards {
+    display: flex;
+    justify-content: space-between;
+    width: 1200px;
+}
+.card h2 {
+    line-height: 30px;
+}
+.card {
+    line-height: 20px;
+    width: 210px;
+} */
